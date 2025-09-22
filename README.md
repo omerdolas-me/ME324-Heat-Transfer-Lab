@@ -5,9 +5,9 @@ The work includes experimental analysis, data processing, and comparison with th
 
 ---
 
-## 📄 Contents
+## Contents
 
-### 🔬 Experiments
+### Experiments
 - **Experiment 1: Heat Loss from a Vessel**  
   - Analysis of heat transfer through convection, conduction, and radiation in a Plexiglas vessel.  
 - **Experiment 2: Unsteady Heat Conduction in Spheres**  
@@ -17,11 +17,11 @@ The work includes experimental analysis, data processing, and comparison with th
 
 ---
 
-## 📝 Notes
+## Notes
 - All reports are in **PDF format**.  
 - Prepared as part of **Yeditepe University Mechanical Engineering – ME324 Heat Transfer** coursework.  
 
 ---
 
-## 📌 Author
+## Author
 - **Ömer Dolaş** – Mechanical Engineering Student  
